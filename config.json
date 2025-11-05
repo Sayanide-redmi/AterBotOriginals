@@ -1,0 +1,8 @@
+{
+ "ip": "",
+ "port": "",
+ "name": "Admin",  
+ "auto-night-skip": "true",
+ "loginmsg": "Admin"
+}
+
