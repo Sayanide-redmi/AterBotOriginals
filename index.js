@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 
 function startBot() {
   const bot = mineflayer.createBot({
-    host: '', //Your server address here
-    port: ,//port number  here
+    host: 'exaroton-KsRX.aternos.me', //Your server address here
+    port: 55951,//port number  here
     username: 'Admin',
     version: '1.17.1'
   });
